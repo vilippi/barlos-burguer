@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary-clara: #FF8A7A;
+  --color-primary-default: #E2231A;
+  --color-primary-escura: #690001;
+
+  --color-secondary-clara: #FFB870;
+  --color-secondary-default: #FF9800;
+  --color-secondary-escura: #4A2800;
+
+  --color-tertiary-clara: #FFE170;
+  --color-tertiary-default: #FFD600;
+  --color-tertiary-escura: #3A3000;
+
+  --color-neutral-clara: #FFFFFF;
+  --color-neutral-default: #2B2118;
+  --color-neutral-escura: #000000;
+}
